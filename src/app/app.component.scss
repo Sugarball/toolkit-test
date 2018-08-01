@@ -1,0 +1,29 @@
+:host {
+  .mobile {
+    display: inline-block;
+    width: 375px;
+    ::ng-deep {
+      .footer-bar {
+        margin-top: 36px;
+        .footer-center {
+          top: 48px;
+        }
+      }
+      .nav-bar {
+        .hidden-xs {
+          display: none !important; 
+        }
+        .hidden-sm {
+          display: none !important; 
+        } 
+        padding: 0 15px !important;
+        .navbar-right {
+          margin-right: 0 !important;
+          .navbar-hamburger {
+            display: inline-block !important;
+          }
+        }
+      }
+    }
+  }
+}

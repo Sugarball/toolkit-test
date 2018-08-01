@@ -1,0 +1,31 @@
+{
+  "name": "viz-toolkit",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/animations": ">=6.0.0",
+    "@angular/common": ">=6.0.0",
+    "@angular/compiler": ">=6.0.0",
+    "@angular/core": ">=6.0.0",
+    "@angular/forms": ">=6.0.0",
+    "rxjs": ">=6.0.0"
+  },
+  "devDependencies": {
+    "mat-range-datepicker": "~1.0.5"
+  },
+  "dependencies": {
+    "mat-range-datepicker": "~1.0.5",
+    "@angular/cdk": "^6.3.1",
+    "@angular/material": "^6.3.1",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/viz-toolkit.umd.js",
+  "module": "fesm5/viz-toolkit.js",
+  "es2015": "fesm2015/viz-toolkit.js",
+  "esm5": "esm5/viz-toolkit.js",
+  "esm2015": "esm2015/viz-toolkit.js",
+  "fesm5": "fesm5/viz-toolkit.js",
+  "fesm2015": "fesm2015/viz-toolkit.js",
+  "typings": "viz-toolkit.d.ts",
+  "metadata": "viz-toolkit.metadata.json",
+  "sideEffects": false
+}

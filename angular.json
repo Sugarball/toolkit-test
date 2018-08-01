@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/viz-toolkit/themes/index.theme.css",
               "src/styles.css"
             ],
             "scripts": []

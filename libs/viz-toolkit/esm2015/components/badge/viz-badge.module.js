@@ -1,0 +1,8 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+import { MatBadgeModule } from "@angular/material";
+export const /** @type {?} */ VizBadgeModule = MatBadgeModule;
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidml6LWJhZGdlLm1vZHVsZS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL3Zpei10b29sa2l0LyIsInNvdXJjZXMiOlsiY29tcG9uZW50cy9iYWRnZS92aXotYmFkZ2UubW9kdWxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7QUFBQSxPQUFPLEVBQUUsY0FBYyxFQUFFLE1BQU0sbUJBQW1CLENBQUM7QUFFbkQsTUFBTSxDQUFDLHVCQUFNLGNBQWMsR0FBRyxjQUFjLENBQUEiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBNYXRCYWRnZU1vZHVsZSB9IGZyb20gXCJAYW5ndWxhci9tYXRlcmlhbFwiO1xuXG5leHBvcnQgY29uc3QgVml6QmFkZ2VNb2R1bGUgPSBNYXRCYWRnZU1vZHVsZSJdfQ==
